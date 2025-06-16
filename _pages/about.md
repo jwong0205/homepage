@@ -11,9 +11,9 @@ redirect_from:
 
 🏢 I bring broad experience across academia, government, and the private sector, with expertise in economic modelling, applied research, and data analysis.
 
-📊 I have contributed to multiple state government budget papers and worked on economic and revenue forecasting, tax and transfer policy analysis, and superannuation fund investment and pricing strategies.
+📊 My work spans contributions to multiple state budget papers, economic and revenue forecasting, tax and transfer policy analysis, and superannuation fund investment and pricing strategies.
 
-🔧 My work draws on a range of analytical tools, including econometric models, machine learning techniques, and microsimulation modelling.
+🔧 I use a range of analytical tools, including econometric models, machine learning techniques, and microsimulation modelling.
 
 🎓 I hold a Ph.D. in Finance from Deakin University and a BCom (Hons) in Actuarial Studies from Monash University. 
 
