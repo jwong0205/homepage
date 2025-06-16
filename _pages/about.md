@@ -9,7 +9,7 @@ redirect_from:
 
 👨🏻‍💻 I'm a Data and Modeling Analyst at the Super Members Council and a Visiting Scholar at Deakin University.
 
-🏢 I bring extensive experience across academia, government, and the private sector, with a strong focus on applied research, economic modelling, and data-driven insights.
+🏢 I have diverse experience spanning academia, government, and the private sector, with expertise in economic modelling, applied research, and data analysis.
 
 🎓 I hold a Ph.D. in Finance from Deakin University and a BCom (Hons) in Actuarial Studies from Monash University. 
 
