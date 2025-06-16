@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Finance, Deakin University, 2022
+* Ph.D. in Finance, Deakin University, 2022
 * BCom(Hons) in Actuarial Studies and Econometrics, Monash University, 2016
 
 Work experience
@@ -20,7 +20,7 @@ Work experience
 
 * Economist, Victorian Department of Treasury and Finance, 2022-2025
 
-* Ph.D Intern, AustralianSuper, 2020
+* Ph.D. Intern, AustralianSuper, 2020
 
 Publications
 ======
