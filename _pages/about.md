@@ -9,11 +9,11 @@ redirect_from:
 
 👨🏻‍💻 I'm a Data and Modeling Analyst at the Super Members Council and a Visiting Scholar at Deakin University.
 
-🏢 I bring broad experience across academia, government, and the private sector, with expertise in economic modelling, applied research, and data analysis.
+🏢 I have broad experience across academia, government, and the private sector, with expertise in economic modelling, applied research, and data analysis.
 
-📊 My work spans contributions to multiple state budget papers, economic and revenue forecasting, tax and transfer policy analysis, and superannuation fund investment and pricing strategies.
+📊 My work has covered economic forecasting, government budget projections, tax and transfer policy analysis, and pension fund investment and pricing strategies.
 
-🔧 I use a range of analytical tools, including econometric models, machine learning techniques, and microsimulation modelling.
+🔧 I use a wide range of analytical tools, including econometric models, machine learning methods, and microsimulation modelling. I am highly proficient in R, SAS, and Python.
 
 🎓 I hold a Ph.D. in Finance from Deakin University and a BCom (Hons) in Actuarial Studies from Monash University. 
 
