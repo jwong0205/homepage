@@ -13,6 +13,6 @@ redirect_from:
 
 🎓 I hold a Ph.D. in Finance from Deakin University and a BCom (Hons) in Actuarial Studies from Monash University. 
 
-📚 My research interests focus on retirement planning and fund management.
+📚 My research interests focus on retirement planning, fund management, and household finance.
 
 📜 My work has been published by APRA, the Victorian Treasury, and in peer-reviewed journals including the Journal of Banking and Finance and the Journal of Empirical Finance.
