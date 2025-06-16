@@ -9,7 +9,7 @@ redirect_from:
 
 👨🏻‍💻 I'm a Data and Modeling Analyst at the Super Members Council and a Visiting Scholar at Deakin University.
 
-🏢 I have broad experience across academia, government, and the private sector, with expertise in economic modelling and applied research.
+🏢 I have broad experience across academia, government, and the private sector, with expertise in economic modelling and quantitative research.
 
 📊 My previous work has covered economic forecasting, government budget projections, tax and transfer policy analysis, and pension fund investment and pricing strategies.
 
