@@ -11,9 +11,9 @@ redirect_from:
 
 🏢 I have broad experience across academia, government, and the private sector, with expertise in economic modelling, applied research, and data analysis.
 
-📊 My work has covered economic forecasting, government budget projections, tax and transfer policy analysis, and pension fund investment and pricing strategies.
+📊 My previous work has covered economic forecasting, government budget projections, tax and transfer policy analysis, and pension fund investment and pricing strategies.
 
-🔧 I use a wide range of analytical tools, including econometric models, machine learning methods, and microsimulation modelling. I am highly proficient in R, SAS, and Python.
+🔧 I work with a wide range of analytical tools, including econometric models, machine learning methods, and microsimulation modelling. I am highly proficient in R, SAS, and Python.
 
 🎓 I hold a Ph.D. in Finance from Deakin University and a BCom (Hons) in Actuarial Studies from Monash University. 
 
