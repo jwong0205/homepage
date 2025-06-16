@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Finance, Deakin University, 2022
-* BCom(Hons) in Actuarial Studies and Econometrics, Monash University, 2016
+* BCom (Hons) in Actuarial Studies and Econometrics, Monash University, 2016
 
 Work experience
 ======
