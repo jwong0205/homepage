@@ -13,9 +13,9 @@ title                    : "Jeffrey H Wong"
 title_separator          : "-"
 name                     : &name "Jeffrey (Ching Hin) Wong"
 description              : &description "Economics | Superannuation | Tax and Transfer Policy | Investment"
-url                      : "https://jwong0205.github.io/2025"
+url                      : "https://jwong0205.github.io/homepage"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jwong0205/2025"
+repository               : "jwong0205/homepage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
