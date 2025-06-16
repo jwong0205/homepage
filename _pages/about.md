@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I'm a Visting Scholar at Deakin University in Melbourne. 
+👨🏻‍💻 I'm a Modeling Analyst at Super Members Council and a Visting Scholar at Deakin University. 
+
+🎓 I graduated from Deakin University with a Ph.D in Finance. 
 
 🔬 My research interests lie in retirement planning and fund management.
