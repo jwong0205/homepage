@@ -13,7 +13,7 @@ title                    : "Jeffrey Wong"
 title_separator          : "-"
 name                     : &name "Jeffrey (Ching Hin) Wong"
 description              : &description "Economics | Superannuation | Tax and Transfer Policy | Investment"
-url                      : "https://jwong0205.github.io/2025/"
+url                      : "https://jwong0205.github.io/2025"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jwong0205/2025"
 
