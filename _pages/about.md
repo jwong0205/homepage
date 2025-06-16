@@ -15,4 +15,4 @@ redirect_from:
 
 📚 My research interests focus on retirement planning and fund management.
 
-📜 My work has been published by APRA, the Victorian Treasury, and in journals such as the Journal of Banking and Finance and the Journal of Empirical Finance.
+📜 My work has been published by APRA, the Victorian Treasury, and in peer-reviewed journals including the Journal of Banking and Finance and the Journal of Empirical Finance.
