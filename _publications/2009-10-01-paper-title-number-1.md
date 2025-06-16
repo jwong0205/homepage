@@ -3,7 +3,7 @@ title: "Paper Title Number 2"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Lifecycle funds, also known as target-date funds, are designed to follow a glide path, gradually reducing investments in risky assets as investors approach retirement. However, we document that Australian lifecycle funds have, on average, increased growth asset allocation over the past decade, shifting the glide path upward. This trend deviates from the expected risk-reduction strategy by lifecycle funds and is particularly pronounced in retail funds with lower initial risk exposure. The shift can be attributed to lifecycle funds catering to investors' return-chasing and the market perception that some lifecycle funds are overly conservative.'
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
