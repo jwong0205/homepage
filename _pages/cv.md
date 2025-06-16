@@ -16,15 +16,12 @@ Education
 
 Work experience
 ======
-* From March 2025: Data and Modelling Analyst
-  * Super Members Council
+* Data and Modelling Analyst, Super Members Council, 2025 - 
 
-* 2022 to 2025: Economist
-  * Victorian Department of Treasury and Finance
+* Economist, Victorian Department of Treasury and Finance, 2022-2025
 
-* 2020: Ph.D Intern
-  * AustralianSuper
-  
+* Ph.D Intern, AustralianSuper, 2020
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
