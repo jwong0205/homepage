@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jeffrey Wong"
+title: "Jeffrey H Wong"
 author_profile: true
 redirect_from: 
   - /about/
