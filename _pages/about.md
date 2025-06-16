@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I'm a Modeling Analyst at Super Members Council and a Visting Scholar at Deakin University. 
+👨🏻‍💻 I'm a Modeling Analyst at the Super Members Council and a Visiting Scholar at Deakin University.
 
-🎓 I graduated from Deakin University with a Ph.D in Finance. 
+🎓 I hold a Ph.D. in Finance from Deakin University and a BCom (Hons) in Actuarial Studies from Monash University. 
 
-🔬 My research interests lie in retirement planning and fund management.
+🔬 My research interests focus on retirement planning and fund management.
