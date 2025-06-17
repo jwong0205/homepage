@@ -11,7 +11,7 @@ redirect_from:
 
 🏢 I have broad experience across academia, government, and the private sector, with expertise in economic modelling and quantitative research.
 
-📊 My previous work spans economic forecasting, government budget projections, tax and transfer policy analysis, pension system design, and pension fund investment research.
+📊 My previous work spans economic forecasting, government budget projections, tax and transfer policy analysis, pension system design, and investment research.
 
 🔧 I work with a wide range of analytical tools, including econometric models, machine learning methods, and microsimulation modelling. I am proficient in R, SAS, and Python.
 
