@@ -18,7 +18,7 @@ Work experience
 ======
 * Data and Modelling Analyst, Super Members Council, 2025 - 
 
-* Economist, Victorian Department of Treasury and Finance, 2022-2025
+* Economist & Research Coordinator, Victorian Department of Treasury and Finance, 2022-2025
 
 * Ph.D. Intern, AustralianSuper, 2020
 
